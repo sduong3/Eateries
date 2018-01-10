@@ -1,0 +1,2 @@
+# Eateries
+Uses Yelp API
